@@ -1,0 +1,8 @@
+### dependency
+streamlit
+numpy
+requests
+sklearn
+
+### local packages -
+-e . 
